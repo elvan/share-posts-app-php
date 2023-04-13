@@ -1,1 +1,1 @@
-# share-posts-app-php
+# SharePosts
