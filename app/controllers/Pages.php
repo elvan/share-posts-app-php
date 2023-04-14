@@ -13,7 +13,7 @@ class Pages extends Controller
 
         $data = [
             'title' => 'SharePosts',
-            'description' => 'Simple social network built on the TraversyMVC PHP framework'
+            'description' => 'Simple social network built on the MVC PHP framework'
         ];
 
         $this->view('pages/index', $data);
